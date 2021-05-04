@@ -1,4 +1,4 @@
-# hola-mundo
-primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio
 
 Autor: Rodrigo Peñafiel
